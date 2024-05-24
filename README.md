@@ -7,7 +7,7 @@
 <img src="images/cintamardelfin.jpg" height="90" width="auto">
 </div>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4ccb8a27-e43e-4738-ad20-bf9152613b63/deploy-status)](https://app.netlify.com/sites/dia23-jovial-tarsier-1ad368/deploys)
+[Netlify Status](https://app.netlify.com/sites/dia23-jovial-tarsier-1ad368/deploys)
 
 <hr>
 
