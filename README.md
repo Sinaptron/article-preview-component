@@ -7,8 +7,6 @@
 <img src="images/cintamardelfin.jpg" height="90" width="auto">
 </div>
 
-[Netlify Status](https://app.netlify.com/sites/dia23-jovial-tarsier-1ad368/deploys)
-
 <hr>
 
 <div align="center" style="text-align: center">
